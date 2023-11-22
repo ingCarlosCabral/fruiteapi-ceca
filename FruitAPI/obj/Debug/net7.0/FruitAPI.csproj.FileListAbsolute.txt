@@ -1,0 +1,10 @@
+C:\Users\ccabral\Desktop\.NET CERTIFICATION\FruitAPI\bin\Debug\net7.0\FruitAPI.exe
+C:\Users\ccabral\Desktop\.NET CERTIFICATION\FruitAPI\bin\Debug\net7.0\FruitAPI.dll
+C:\Users\ccabral\Desktop\.NET CERTIFICATION\FruitAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\ccabral\Desktop\.NET CERTIFICATION\FruitAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ccabral\Desktop\.NET CERTIFICATION\FruitAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ccabral\Desktop\.NET CERTIFICATION\FruitAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\ccabral\Desktop\.NET CERTIFICATION\FruitAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\ccabral\Desktop\.NET CERTIFICATION\FruitAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ccabral\Desktop\.NET CERTIFICATION\FruitAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ccabral\Desktop\.NET CERTIFICATION\FruitAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
